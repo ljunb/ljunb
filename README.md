@@ -11,4 +11,13 @@
 
 ## Spent time
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   14 mins         █████████▓░░░░░░░░░░░░░░░   38.73 %
+Rust         12 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
+Python       6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
