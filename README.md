@@ -4,7 +4,7 @@
 - 🚗 Tesla Model Y Owner | New Dad
 - 🔭 I’m currently focuing on AI & Crypto
 - 🌱 I’m currently learning Python, Rust
-- 💬 Welcome to share with me your thoughts and experiences on **self-driving tours**, **car detailing** and **React Native development**. If you have ideas for **business cooperation**, that would be even better.
+- 💬 Welcome to share with me your thoughts and experiences on **self-driving tours**, **car detailing** and **React Native development**.
 
 
 
