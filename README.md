@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     42 mins         ████████████████████████▒   97.47 %
+RPMSpec    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
