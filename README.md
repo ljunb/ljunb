@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           27 mins               ██████████▒░░░░░░░░░░░░░░   41.73 %
-SQL          21 mins               ████████░░░░░░░░░░░░░░░░░   32.52 %
-TypeScript   16 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
